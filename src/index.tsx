@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2021-03-16 09:49:01
- * @LastEditTime: 2021-03-16 13:21:43
+ * @LastEditTime: 2021-03-16 13:59:14
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \react-ts-family-learn\src\index.tsx
@@ -9,12 +9,12 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import '@/styles/index.css'
-import App from '@/view/App/App'
+import RouterContainer from '@/routers'
 import reportWebVitals from './reportWebVitals'
 import '@/icons/index.ts'
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <RouterContainer />
   </React.StrictMode>,
   document.getElementById('root')
 )

@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2021-03-16 09:49:01
- * @LastEditTime: 2021-03-16 13:22:57
+ * @LastEditTime: 2021-03-16 13:43:22
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \react-ts-family-learn\src\App.tsx
@@ -25,6 +25,13 @@ function App () {
           rel="noopener noreferrer"
         >
           Learn React
+        </a>
+        <a
+          className="App-link"
+          href="/lodash"
+          rel="noopener noreferrer"
+        >
+          Learn Lodash
         </a>
       </header>
     </div>
