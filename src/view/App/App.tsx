@@ -1,6 +1,14 @@
+/*
+ * @Author: your name
+ * @Date: 2021-03-16 09:49:01
+ * @LastEditTime: 2021-03-16 13:22:57
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: \react-ts-family-learn\src\App.tsx
+ */
 import React from 'react'
-import logo from './logo.svg'
-import './App.css'
+import logo from '@/assets/logo.svg'
+import './style/App.css'
 
 function App () {
   return (

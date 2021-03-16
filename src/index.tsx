@@ -1,9 +1,17 @@
+/*
+ * @Author: your name
+ * @Date: 2021-03-16 09:49:01
+ * @LastEditTime: 2021-03-16 13:21:43
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: \react-ts-family-learn\src\index.tsx
+ */
 import React from 'react'
 import ReactDOM from 'react-dom'
-import './index.css'
-import App from './App'
+import '@/styles/index.css'
+import App from '@/view/App/App'
 import reportWebVitals from './reportWebVitals'
-import './icons/index.ts'
+import '@/icons/index.ts'
 ReactDOM.render(
   <React.StrictMode>
     <App />
