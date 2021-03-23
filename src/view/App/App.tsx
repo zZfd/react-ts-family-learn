@@ -33,6 +33,13 @@ function App () {
         >
           Learn Lodash
         </a>
+        <a
+          className="App-link"
+          href="/layout"
+          rel="noopener noreferrer"
+        >
+          Learn layout
+        </a>
       </header>
     </div>
   )
